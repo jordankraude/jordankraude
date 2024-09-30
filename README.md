@@ -13,7 +13,7 @@ I'm Jordan Kraude, a student at Brigham Young University-Idaho majoring in web d
 
 ## Technologies and Tools
 
-- **Proficient in:** JavaScript (ES6+), HTML5, CSS3, Next.js, Tailwind CSS, Bootstrap, Git & GitHub
+- **Proficient in:** JavaScript (ES6+), HTML5, CSS3, React, Svelte, Next.js, Tailwind CSS, Bootstrap, Adobe Creative Cloud, Git & GitHub
 - **Skills:** UI/UX Design, Python, C#, Jira, Trello
 
 ## Let's Connect!
